@@ -1,3 +1,5 @@
+## ⚠️ Em Desenvolvimento
+
 # Operação Papel
 Operação Papel é um projeto baseado no ATmega328P para monitoramento e ajuste do fluxo de papéis em um sistema automatizado. Ele utiliza um sensor fotoelétrico para contar a quantidade de papéis que passam pelo sistema e permite o ajuste do tempo de forma manual, através de um potenciômetro, ou automática, com base no próprio sensor. Além disso, conta com um display LCD para exibir as informações em tempo real.
 
